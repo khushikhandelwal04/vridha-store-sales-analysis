@@ -47,11 +47,8 @@ A one-page interactive dashboard with slicers for **Channel**, **Category**, and
 5. **Investigate the late-year sales dip** — cross-check with marketing spend, festive season timing, or channel-level promotions to identify the cause and correct it in the next planning cycle.
 
 
-## Files in This Repo
-dashboard_vridha_store/
-├── dashboard_screenshot.jpg      # Static preview image
-└── README.md
-
 ## Author
 
 **Khushi Khandelwal**
+**[LinkedIn](https://linkedin.com/in/khushi-khandelwal04)** · 
+**[More projects](https://github.com/khushikhandelwal04)**
